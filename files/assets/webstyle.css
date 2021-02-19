@@ -1,0 +1,70 @@
+.header{
+    text-align: center;
+    background-color: red;
+    position: fixed;
+    top: 0%;
+    z-index: 10;
+    top: 0%;
+    display: block;
+    width: 100%;
+}
+
+.img{
+    display: block; 
+    position: relative;
+    background-color: red;
+    margin-top: 300px;
+    float: center;
+    left: 40%;
+}
+.shell{
+    background-color: mediumturquoise;
+    text-align: center;
+}
+li{
+    display: inline-block;
+}
+
+.li{
+    text-align: left;
+
+}
+.li1{
+    text-align: center;
+
+} 
+.li2{
+    text-align: right;
+
+
+}
+
+ul{
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+}
+
+a{
+    color: #d21034;
+}
+
+body{
+    background-color: black;
+}
+
+div{
+    background-color: rgb(53, 63, 71);
+}
+
+footer{
+    text-align: center;
+}
+
+.ses{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
